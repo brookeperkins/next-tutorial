@@ -23,7 +23,7 @@ yarn dev
 - [Crash Course from Traversy](https://youtu.be/mTz0GXj8NN0) - delightful Boston accent + really useful, easy-to-follow tutorial.
 
 ### ATTENDING
-- [NextJS has its own conference!](https://nextjs.org/conf#room-j7pge) Idk when the next one is but the last one was in October 2020.
+- [NextJS has its own conference!](https://nextjs.org/conf#room-j7pge) Next one is June 15, 2021! Get a ticket!
 
 ### DEPLOYMENT
 
