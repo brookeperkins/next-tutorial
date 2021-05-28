@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+## [Next.js](https://nextjs.org/) has great docs! Start there! 
+<br />
+1. Run [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to get started.
+<br />
+2. Run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## My Fave Resources (Will Add To This)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### READING
+- [Next.js Documentation](https://nextjs.org/docs)  is super organized and easy to read.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [The Next.js GitHub repository](https://github.com/vercel/next.js/) has loads of cool examples of what you can do with NextJS! I looked at this for examples of TS & Styled-Components with Next. 
+### WATCHING 
+- [Crash Course from Traversy](https://youtu.be/mTz0GXj8NN0) - delightful Boston accent + really useful, easy-to-follow tutorial.
 
-## Learn More
+### ATTENDING
+- [NextJS has its own conference!](https://nextjs.org/conf#room-j7pge) Idk when the next one is but the last one was in October 2020.
 
-To learn more about Next.js, take a look at the following resources:
+### DEPLOYMENT
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+I've used [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) for all my Next deployments because it's very easy, but you can deploy on anything that will allow for hosting whatever you need (like if you're using the API routes make sure your service can deploy Node/Express apps).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you find anything cool that should be included here, just DM me! 
